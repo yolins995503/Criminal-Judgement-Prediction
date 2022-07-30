@@ -1,5 +1,7 @@
 # Criminal Judgement Prediction
 
+Paper link: http://search.taai.org.tw/paper/2020/0/應用自然語言處理與人工智慧技術於常用刑事類別判決預測%20.pdf  
+
 ![](https://i.imgur.com/8ZHBqAs.png)
 
 ## Crawler
